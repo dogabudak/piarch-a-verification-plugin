@@ -6,9 +6,12 @@
   "types": "dist/index.d.js",
   "author": "Doga Budak",
   "license": "ISC",
-  "files": ["/dist"],
+  "files": [
+    "/dist"
+  ],
   "dependencies": {
     "@types/node": "14.14.27",
+    "hot-shots": "^10.0.0",
     "nanomsg": "4.1.0"
   },
   "devDependencies": {
